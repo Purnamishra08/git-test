@@ -20,8 +20,10 @@ console.log(x);
 // How function works
 
 var x = 1;
+var x = 2;
 a();
 b();
+console.log(x);
 console.log(x);
 
  function a()
