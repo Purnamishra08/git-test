@@ -20,4 +20,4 @@ function square(num){
     // console.log(ans);
 }
 var square2 = square(n);
-var square4 = square(4);
+
